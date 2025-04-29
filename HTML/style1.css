@@ -1,0 +1,17 @@
+.first-class{
+    color: green;
+    border: 1px solid red;
+}
+#secondId {
+    text-transform: uppercase;
+    color:red
+}
+
+#thirdId {
+    font-size: 20px;
+}
+
+.Eric-image{
+    height: 300px;
+    width: 300px;
+}
